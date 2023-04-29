@@ -6,6 +6,7 @@ kheer
 pasta
 chicken
 
-
+beans 
+pizza
 
 thank u
